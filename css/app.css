@@ -1,0 +1,38 @@
+
+/*! -------------- 1- NAVBAR ---------------- */
+.navbar{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.navbar-brand img{
+    width: 150px;
+    margin-left: 20px;
+}
+.navbar-brand{
+    margin-right: 0;
+}
+.navbar-nav{
+    align-items: center;
+}
+.nav-link{
+    color: black;
+    transition: 0.5s;
+}
+.nav-link:hover{
+    color: blue;
+}
+/*! ------------- 2- CAROUSEL --------------- */
+
+/*! ------------ 3- ABOUT SECTION ----------- */
+
+/*! ------------- 4- INSTRUCTORS -------------*/
+
+
+/*! ----------- 4- STUDENTS SECTION ----------*/
+
+/*! ----------- 5- COURSES SECTION ----------- */
+
+/*! ----------- 6- CONTACT SECTION ------------ */
+
+/*! --------------- 7- FOOTER ----------------- */
